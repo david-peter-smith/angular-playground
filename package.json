@@ -1,0 +1,19 @@
+{
+  "name": "angular-playground",
+  "version": "1.0.0",
+  "description": "A basic Angular setup",
+  "main": "source/index.js",
+  "scripts": {
+	"start": "start",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-peter-smith/angular-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-peter-smith/angular-playground/issues"
+  },
+  "homepage": "https://github.com/david-peter-smith/angular-playground#readme"
+}
